@@ -23,4 +23,5 @@ void loop() {
   Serial.println(sensorValue); // Imprime o valor lido do sensor (sensorValue), seguido de uma nova linha
 
   delay(500); // Introduz um atraso de 500 milissegundos antes de repetir o loop, para que a leitura e a impressão no monitor serial ocorram a cada meio segundo
+  
 }
