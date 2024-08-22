@@ -2,6 +2,7 @@
 MATERIAL LIST:
 ⚫ LDR (Light Dependent Resistor);
 ⚫ Resistor de 10k ohms (10k ohm resistor);
+⚫ 330 OHM Resistor for the LED
 ⚫ 1 Arduino UNO;
 ⚫ Protoboard (Breadboard);
 ⚫ Jumpers de ligação (Connection jumpers);
