@@ -1,0 +1,26 @@
+Conexões do Sensor DHT11:
+Pino VCC do DHT11: Conecte ao 5V do Arduino.
+Pino GND do DHT11: Conecte ao GND do Arduino.
+Pino DATA do DHT11(PINO DO MEIO DO DHT11): Conecte ao pino digital 8 do Arduino.
+
+
+
+
+Conexões do LCD 16x2:
+Pino do LCD	Conexão no Arduino
+VSS (Pino 1)	GND
+VDD (Pino 2)	5V
+VO (Pino 3)	Potenciômetro(pino do meio do potenciômetro) ou GND (para ajuste de contraste)
+RS (Pino 4)	Pino digital 12
+RW (Pino 5)	GND
+E (Pino 6)	Pino digital 11
+D4 (Pino 11)	Pino digital 5
+D5 (Pino 12)	Pino digital 4
+D6 (Pino 13)	Pino digital 3
+D7 (Pino 14)	Pino digital 2
+A (Pino 15)	5V (para o backlight)
+K (Pino 16)	GND (para o backlight)
+
+
+Ajuste do Contraste (Pino VO):
+Para ajustar o contraste do LCD, conecte o pino VO (Pino 3) a um potenciômetro. Conecte o meio do potenciômetro ao pino VO e os outros dois terminais do potenciômetro ao 5V e GND. Isso permitirá ajustar o contraste manualmente.
